@@ -1,0 +1,6 @@
+projectKey=com.htc:MusicBand
+serverUrl=http://localhost:9000
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9000/dashboard/index/com.htc:MusicBand
+ceTaskId=AV-wlvADvPsQX1x9mGGk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-wlvADvPsQX1x9mGGk

@@ -1,0 +1,6 @@
+projectKey=MusicBand
+serverUrl=http://localhost:9000
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9000/dashboard/index/MusicBand
+ceTaskId=AV-wtkjO0oPboFYWQFID
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-wtkjO0oPboFYWQFID
